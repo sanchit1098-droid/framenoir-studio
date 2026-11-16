@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#0B0C0E" rx="8"/>
+  <rect x="2" y="2" width="60" height="60" fill="none" stroke="#C5A880" stroke-width="1" opacity="0.4" rx="6"/>
+  <text x="32" y="42" font-family="'Cormorant Garamond', Georgia, serif" font-size="28" font-weight="600" fill="#E5D3B8" text-anchor="middle" letter-spacing="2">FN</text>
+  <circle cx="50" cy="20" r="2.5" fill="#C5A880"/>
+</svg>
